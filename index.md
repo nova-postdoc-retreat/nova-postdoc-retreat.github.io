@@ -11,7 +11,7 @@ The NOVA postdoc retreat meeting is open to all postdocs associated with a Dutch
 
 In 2023 the NOVA postdoc retreat will be held in Leiden. Specifically on Thursday Nov. 30 and Friday Dec. 1 in the Golden Tulip / Tulip Inn hotel. The location is very accessible with Leiden central station next doors. We therefore recommend participants to travel by train to Leiden.
 
-Participation to this event is fully covered through NWO/NOVA support and covers participation in the courses as well as lunches and dinner on Thursday evening. It is up to the participants from outside Leiden to organise their own accommodation. When you book at the Golden Tulip / Tulip, please refer to this meeting and this will lower the total costs. Only if the budget allows, we may be able to cover a posteriori accommodation expenses for participants not based in Leiden.
+Participation to this event is fully covered through NWO/NOVA support and covers participation in the courses as well as lunches and dinner on Thursday evening. It is up to the participants from outside Leiden to organise their own accommodation. When you book at the Golden Tulip / Tulip Inn, please refer to this meeting and this will lower the total costs. Only if the budget allows, we may be able to cover a posteriori accommodation expenses for participants not based in Leiden.
 
 <html lang="en">
 
