@@ -6,6 +6,9 @@ title: NOVA
 
 The NOVA postdoc retreat meeting is open to all postdocs associated with a Dutch astronomical institute as well as those affiliated with SRON, ASTRON, and TU Delft.  The aim of the meeting is to go beyond standard postdoc training normally offered by universities by offering sessions that can further serve the career of a postdoc. This entails aspects related to participants who wish to pursue an academic career, but also participants who are considering pursuing a non-academic trajectory. Apart from these career aspects, the meeting tries to give the participants a sense of practical `soft-skills' that may serve useful in both academic and non-academic environments.
 
+# Group photo
+![Group photo taken on Friday December 1st](group-photo-small.jpg)
+Thanks for attending, everyone! It was great fun. Click here for a [large version of the group photo](group-photo.jpg).
 
 # Practicals
 
@@ -67,7 +70,7 @@ Participation to this event is fully covered through NWO/NOVA support and covers
 
 # Registration form (waiting list)
 
-Registration is closed for the 2023 NOVA postdoc retreat as we have reached our target of 25 participants. You may however register to be placed on the waiting list. Upon completion a confirmation e-mail will be send to the e-mail address used for registration. In case you have not received a confirmation e-mail, please check the spam folder of your e-mail client. Still no confirmation? Contact the organisers.
+Registration is closed for the 2023 NOVA postdoc retreat. Upon completion a confirmation e-mail will be send to the e-mail address used for registration. In case you have not received a confirmation e-mail, please check the spam folder of your e-mail client. Still no confirmation? Contact the organisers.
 <!-- Registration form starts here please take care-->
 <form
   method="POST"
